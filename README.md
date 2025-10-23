@@ -32,7 +32,7 @@ Check out the live application: [Chainlytics](https://chainlytics.vercel.app)
 ## ⚡ Quick Start
 
 1. **Visit the Live Site**
-   [https://chainlytics.vercel.app](https://chainlytics.vercel.app)
+   [https://chainlytics.vercel.app](https://chainlytics-tau.vercel.app)
 
    No installation required! Access the platform directly through your web browser.
 
