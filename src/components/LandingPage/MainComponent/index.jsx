@@ -47,8 +47,8 @@ function MainComponent() {
           </a>
           <RWebShare
             data={{
-              text: "Chainlytics made by Avi Vashishta using React JS.",
-              url: "https://react-chainlytics.vercel.app",
+              text: "Chainlytics made by Vedant Kolhe",
+              url: "https://chainlytics-tau.vercel.app",
               title: "Chainlytics",
             }}
             onClick={() => toast.info("App Shared!")}
