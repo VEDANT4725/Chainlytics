@@ -6,7 +6,7 @@ A modern cryptocurrency tracking platform built with React.js, offering real-tim
 
 ## ✨ Live Demo
 
-Check out the live application: [Chainlytics](https://chainlytics.vercel.app)
+Check out the live application: [Chainlytics](https://chainlytics-tau.vercel.app)
 
 ## 🎯 Key Features
 
